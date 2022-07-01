@@ -7,7 +7,7 @@ https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org
 ## Get started with Binder 
 このページは、独自のリポジトリを構築し、それらをBinderと共有するのに役立ちます。一般的なバインダープロジェクトの詳細については、‌mybinder.orgについて✧1✧‌を参照してください。
 
-link✧1: [About mybinder.org](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/about/index.html)
+link✧1: [About mybinder.org](https://mybinder.readthedocs.io/en/latest/about/index.html)
 
 別の有用なリソース
 TheTuringWay✧2✧‌は、3つの一般的なプログラミング言語で‌Zero-to-Binderチュートリアル✧3✧‌もあります。
