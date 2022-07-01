@@ -9,11 +9,12 @@ https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org
 
 link✧1: [About mybinder.org](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/about/index.html)
 
-!!!info 別の有用なリソース
-	‌TheTuringWay✧2✧‌は、3つの一般的なプログラミング言語で‌Zero-to-Binderチュートリアル✧3✧‌もあります。
+別の有用なリソース
+TheTuringWay✧2✧‌は、3つの一般的なプログラミング言語で‌Zero-to-Binderチュートリアル✧3✧‌もあります。
 
-	![](https://the-turing-way.netlify.app/_static/logo.jpg) link✧2: [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
-	link✧3: [Zero-to-Binder tutorial](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html)
+	![](https://the-turing-way.netlify.app/_static/logo.jpg)
+link✧2: [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
+link✧3: [Zero-to-Binder tutorial](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html)
 
 ## What is a Binder? 
 バインダー（バインダー対応リポジトリーとも呼ばれます）は、少なくとも2つのものを含むコードリポジトリーです。
@@ -56,10 +57,10 @@ mybinder.orgのBinderHubで使用するためにリポジトリを準備する�
 
 * リポジトリには、人々が読むために設計されたコンテンツが含まれています。
 
-!!!info ヒント
-	バインダーで使用するサンプルリポジトリのリストについては、‌サンプルバインダーリポジトリ✧10✧‌ページを参照してください。
+### ヒント
+バインダーで使用するサンプルリポジトリのリストについては、‌サンプルバインダーリポジトリ✧10✧‌ページを参照してください。
 
-	✦link✧✸10: [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/examples/sample_repos.html)
+✦link✧✸10: [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/examples/sample_repos.html)
 
 ## How can I customize my Binder environment? 
 バインダー環境をカスタマイズする方法はたくさんあります。たとえば、‌多くのオープンソース言語を使用する✧11✧‌、‌ユーザーインターフェイスを構成する✧12✧‌などがあります。
