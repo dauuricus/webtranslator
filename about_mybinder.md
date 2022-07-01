@@ -90,11 +90,10 @@ mybinder.orgのBinderHubで使用するためにリポジトリを準備する�
 
 * 環境構成ファイル：environment.ymlは、Anaconda環境を指定する標準ファイルです。
 
-!!!info 重要
+### 重要
+environment.ymlはバインダー固有ではないことに気付くかもしれません。これは意図的なものです。バインダーは、データサイエンスコミュニティですでに標準となっている環境構成ファイルを使用しようとします。使用可能なすべての構成ファイルのリストについては、‌構成ファイル✧15✧‌ページを参照してください。
 
-	environment.ymlはバインダー固有ではないことに気付くかもしれません。これは意図的なものです。バインダーは、データサイエンスコミュニティですでに標準となっている環境構成ファイルを使用しようとします。使用可能なすべての構成ファイルのリストについては、‌構成ファイル✧15✧‌ページを参照してください。
-
-	✦link✧✸15: [Configuration Files](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/using/config_files.html#config-files)
+✦link✧✸15: [Configuration Files](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-mybinder-org\/using/config_files.html#config-files)
 
 ## Get your own copy of this repository 
 これらのファイルを含むリポジトリは、次のリンクにあります。
